@@ -18,8 +18,8 @@ Somewhere inside your code you have to write something this:
 
 ```Javascript
   const data = {
-    latitude:"3.8689867" // This is just an example you can use any latitude that you want, you can take it from a GPS for example,
-    longitude:"11.5213344" // This is just an example you can use any longitude that you want, you can take it from a GPS for example,
+    latitude:"3.8689867", // This is just an example you can use any latitude that you want, you can take it from a GPS for example
+    longitude:"11.5213344", // This is just an example you can use any longitude that you want, you can take it from a GPS for example
     mailAddress:"abc@xyz.com" // Use any valid email address that you want
 };
 
