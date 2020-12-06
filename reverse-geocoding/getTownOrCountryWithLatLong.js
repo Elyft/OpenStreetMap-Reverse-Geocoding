@@ -54,7 +54,7 @@ module.exports = (data)=>{
             )
         }
 
-        // Everything is good
+        // Everything is good :)
 
         if(checkUserData === "All checks are good"){
 
