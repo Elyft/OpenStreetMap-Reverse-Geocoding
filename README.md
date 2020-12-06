@@ -1,2 +1,2 @@
 # Reverse-Geocoding-
-A small NodeJs librairy to do reverse geocoding with OpenStreetMap
+A small NodeJs library to do reverse geocoding with OpenStreetMap
