@@ -1,0 +1,28 @@
+{
+  "name": "openstreetmap-reverse-geocoding",
+  "version": "1.0.0",
+  "description": "A small NodeJs library to do reverse geocoding with OpenStreetMap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elyft/OpenStreetMap-Reverse-Geocoding.git"
+  },
+  "keywords": [
+    "NodeJs",
+    "OpenStreetMap",
+    "Reverse",
+    "Geocoding"
+  ],
+  "author": "Nguetseng Stephane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elyft/OpenStreetMap-Reverse-Geocoding/issues"
+  },
+  "homepage": "https://github.com/Elyft/OpenStreetMap-Reverse-Geocoding#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
