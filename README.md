@@ -25,7 +25,9 @@ Somewhere inside your code you have to write something this:
 
 // All this keys is mandatory, if you want to get the address data,the email address is used to prevent misuse of the OpenStreetMap servers.
 
-require('./reverse-geocoding/getTownOrCountryWithLatLong.js')(data).then((response)=>{
+// The path inside require() depends on how your app folder structure is;
+
+require('./reverse-geocoding/getTownOrCountryWithLatLong.js')(data).then((response)=>{ 
     
      if(response?.Message === "Operation ended with success"){
          
