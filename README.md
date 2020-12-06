@@ -32,7 +32,7 @@ require('./reverse-geocoding/getTownOrCountryWithLatLong.js')(data).then((respon
      if(response?.Message === "Operation ended with success"){
          
         // Right There you've all the data that you need
-         const data = response.Data;
+         const data = response?.Data;
 
          /*
             console.log(data) give you the result that you want
