@@ -1,4 +1,4 @@
-# Reverse-Geocoding-
+# OpenStreetMap-Reverse-Geocoding
 A small NodeJs library to do reverse geocoding with OpenStreetMap(require NodeJs 7.0.0 and newer).
 
 ## Context
