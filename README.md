@@ -27,7 +27,7 @@ Somewhere inside your code you have to write something this:
 
 // The path inside require() depends on how your app folder structure is;
 
-require('./reverse-geocoding/getTownOrCountryWithLatLong.js')(data).then((response)=>{ 
+require('./reverse-geocoding/GetTheAddressData.js')(data).then((response)=>{ 
     
      if(response?.Message === "Operation ended with success"){
          
